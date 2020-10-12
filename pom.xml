@@ -32,7 +32,7 @@
         <com.fasterxml.jackson.version>2.5.4</com.fasterxml.jackson.version>
         <commons.io.version>2.4</commons.io.version>
         <commons.lang.version>2.6</commons.lang.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <org.assertj.version>2.1.0</org.assertj.version>
         <org.mockito.version>1.10.19</org.mockito.version>
         <com.lmax.disruptor.version>3.3.2</com.lmax.disruptor.version>
